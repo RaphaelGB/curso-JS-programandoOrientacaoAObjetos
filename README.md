@@ -1,4 +1,4 @@
-#Curso de JS Orientado a objetos
+# Curso de JS Orientado a objetos
 
 Este é um curso da Alura aprendendo os principais conceitos de orientação a objetos em JavaScript, os tópicos são:
 - Classe e objeto
